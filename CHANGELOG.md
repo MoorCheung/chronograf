@@ -2,6 +2,8 @@
 
 ### Bug Fixes
 
+1. [#5553](https://github.com/influxdata/chronograf/pull/5553): Show all query results in table view.
+
 ### Features
 
 ### Other
