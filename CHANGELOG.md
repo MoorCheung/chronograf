@@ -2,6 +2,8 @@
 
 ### Bug Fixes
 
+1. [#5555](https://github.com/influxdata/chronograf/pull/5555): Show also boolean field/tag values in tickscript editor logs.
+
 ### Features
 
 ### Other
